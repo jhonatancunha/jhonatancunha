@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Olá eu sou o Jhonatan. Estudante do curso de ciências da computação na Universidade Tecnológica Federal do Paraná. Apaixonado por programação e atualmente estudando tudo sobre ReactJS e seu ecossistema. Buscado cada dia mais aperfeiçoar técnicas no desenvolvimento de design de interfaces.
+Olá eu sou o Jhonatan. Estudante do curso de ciências da computação na <b>Universidade Tecnológica Federal do Paraná</b>. Apaixonado por programação e atualmente estudando tudo sobre <b>ReactJS e seu ecossistema</b>. Buscado cada dia mais aperfeiçoar técnicas no desenvolvimento de <b>design de interfaces</b>.
 </p>
  
 
