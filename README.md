@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/kgxnjJf/Novo-Projeto-1.png" alt"Jhonatan Banner GitHub" />
+<img src="https://i.ibb.co/jvQ2KkM/teste.png" alt"Jhonatan Banner GitHub" />
 </p>
 
 <p align="justify">
