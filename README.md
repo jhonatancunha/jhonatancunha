@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://i.ibb.co/5k2xj7v/logo-jc.png" alt"Jhonatan Banner GitHub" />
+<!-- <img src="https://i.ibb.co/5k2xj7v/logo-jc.png" alt"Jhonatan Banner GitHub" /> -->
+<img src="https://i.ibb.co/Cn8Xp69/logo-jc-2.png" alt"Jhonatan Banner GitHub" />
+
 </p>
 
 <p align="center">
