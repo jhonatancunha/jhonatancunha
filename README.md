@@ -32,8 +32,8 @@ Eu sou o Jhonatan, estudante do curso de ciências da computação na <b>Univers
 
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jhonatancunha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatancunha&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatancunha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatancunha&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
 
 
