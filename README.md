@@ -7,7 +7,7 @@
 ### :wave: Hello World! 
 
 
-Eu sou o Jhonatan, estudante do curso de ciências da computação na <b>Universidade Tecnológica Federal do Paraná</b>. Atualmente estou estudando sobre React, React Native e NodeJS.
+Olá, sou aluno do 5.º período do curso de Ciências da Computação da UTFPR/CM. Meu foco de estudo atualmente se concentra no desenvolvimento de aplicações web/mobile abordando o lado do frontend e backend. Adoro utilizar as ferramentas disponíveis na programação em busca de uma solução viável para uma aplicação real.
 
 ### ⚡ Tecnologias
 
