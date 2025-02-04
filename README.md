@@ -7,7 +7,7 @@
 ### :wave: Hello World! 
 
 
-Olá, sou estudante do curso de Ciência da Computação da Universidade Tecnológica Federal do Paraná com conhecimentos de JavaScript, Python, React, React Native e C. Atualmente trabalho como Desenvolvedor Júnior para a Viptech - Smart Solutions e trabalhei como Gerente de Projetos/Desenvolvedor FullStack para a Empresa Júnior Haken. Recentemente participei do desenvolvimento de uma plataforma web e móvel totalmente gratuita, voltada para auxiliar a aplicação de avaliações formativas contínuas em instituições de ensino com condições financeiras limitadas. Atualmente estou em um projeto que almeja a implementação de um algoritmo para a detecção automática de animais presentes em vídeos de mata, utilizando técnicas de processamento de imagens e inteligência artificial. Busco sempre aprender novos conhecimentos e utilizá-los em prol de uma solução viável para uma aplicação real.
+Sou formado em Ciência da Computação pela Universidade Tecnológica Federal do Paraná e tenho experiência em desenvolvimento de software com JavaScript, Python, React, React Native e C. Participei do desenvolvimento de uma plataforma web e móvel gratuita voltada para a aplicação de avaliações formativas contínuas em instituições de ensino com recursos financeiros limitados. Além disso, desenvolvi um algoritmo de detecção automática de animais em vídeos de mata, utilizando técnicas de processamento de imagens e inteligência artificial. Sou apaixonado por inovação e aprendizado contínuo, sempre buscando aplicar tecnologia para criar soluções eficientes e escaláveis para problemas reais.
 
 ### ⚡ Tecnologias
 
